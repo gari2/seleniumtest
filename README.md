@@ -1,0 +1,2 @@
+# seleniumtest
+Javaとselenium、ApacheUtilsを使った、TSUTAYAのコミックの在庫を検索するコンソールアプリ。
